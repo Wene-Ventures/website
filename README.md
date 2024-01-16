@@ -4,5 +4,12 @@ Welcome to the official **Wene Ventures** website (weneventures.com). This websi
 ## Website Development
 The development of this website is done on github.com using hard code (html,css,js and more). Hard code development allows us to structure and design our website as per our needs without worrying about limitations like in Wordpress or other CMS.
 
+## FAQs
+Here are some of the most common questions that are asked about weneventures.com and their respective answers.
+
+## Important Links
+- Official Website [weneventures.com](https://weneventures.com "WV Official Website")
+- Contact Email [info@weneventures.com](mailto:info@weneventures.com " WV Official Email")
+
 ## Developer
 weneventures.com is designed and developed by Aniwene Madolomani (MrWene)
