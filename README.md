@@ -16,4 +16,4 @@ Here are some of the most common questions that are asked about weneventures.com
 - Contact Email [info@weneventures.com](mailto:info@weneventures.com " WV Official Email")
 
 ## Developer
-weneventures.com is designed and developed by Aniwene Madolomani (MrWene)
+weneventures.com is designed and developed by Aniwene Madolomani (MrWene) 
