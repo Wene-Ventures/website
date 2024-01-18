@@ -2,10 +2,10 @@ body {
     background-color: #fdf6e3;  
 }
 
-.title {
+h1.title {
     align-items: center;
     align: center;
 }
-.subtitle{
+h3.subtitle{
     text-align: center;
 }
