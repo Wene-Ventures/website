@@ -1,4 +1,10 @@
 body {
-    background-color: #fdf6e3;
-    
+    background-color: #fdf6e3;  
+}
+
+.title {
+    align-content: center;
+}
+.subtitle{
+    align-content: center;
 }
