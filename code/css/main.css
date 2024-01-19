@@ -9,9 +9,9 @@ p {
     color: #b58900;
 }
 
-.title {
+h1.title{
     text-align: center;
 }
-.subtitle{
+h3.subtitle{
     text-align: center;
 }
