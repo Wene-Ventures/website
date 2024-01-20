@@ -27,6 +27,7 @@ div.poem{
 }
 p.stanza{
     white-space: pre-line;
+    padding-bottom: 50px;
 }
 
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
