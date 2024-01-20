@@ -19,6 +19,11 @@ h3.subtitle{
     text-align: center;
 }
 
+nav.primary{
+    display: inline-block;
+    list-style-type: none;
+}
+
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
 
 /* Poetry Books */
