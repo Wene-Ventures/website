@@ -67,6 +67,7 @@ p.stanza{
 p.description{
     text-align: center;
     font-style: italic;
+    font-weight: 600;
 }
 
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
