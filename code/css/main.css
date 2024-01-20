@@ -1,3 +1,15 @@
+/* 
+Important Data 
+
+---------------------------
+Color Scheme
+- #b58900 - Main Color
+- #674d00 - Darker Color
+----------------------------
+
+
+*/
+
 body {
     background-color: #fdf6e3;  
 }
@@ -6,7 +18,7 @@ body {
 p {
     font-size: 20px;
     text-align: justify;
-    color: hsl(45, 100%, 20%);
+    color: #674d00;
     padding-left: 20px;
     padding-right: 20px;
     
@@ -24,14 +36,19 @@ h3.subtitle{
 ul.primary-menu{
     list-style-type: none;
     overflow: hidden;
+    background-color: #b58900;
 }
-li.primary-item{
-    float: left;
+
+li.menu-item{
+    float: center;
 }
-li.primary-item a{
+
+li.menu-item a{
     display: block;
     text-align: center;
     padding: 10px, 20px;
+    text-decoration: none;
+    color: white;
 }
 /* - - - - - - - - - - Header Styling- - - - - - - - - - -*/
 
