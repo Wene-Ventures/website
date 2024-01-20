@@ -25,7 +25,7 @@ ul.primary-menu{
     list-style-type: none;
     overflow: hidden;
 }
-li.primary item{
+li.primary-item{
     float: left;
 }
 li.primary-item a{
