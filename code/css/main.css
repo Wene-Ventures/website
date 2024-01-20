@@ -19,7 +19,7 @@ h3.subtitle{
     text-align: center;
 }
 
-nav.primary{
+ul{
     display: inline-block;
     list-style-type: none;
 }
