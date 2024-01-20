@@ -26,6 +26,9 @@ ul.primary-menu{
     overflow: hidden;
     align-content: center;
 }
+li.primary item{
+    float: left
+}
 li.primary-item a{
     display: block;
     text-align: center;
