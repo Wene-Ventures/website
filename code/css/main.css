@@ -24,15 +24,13 @@ h3.subtitle{
 ul.primary-menu{
     list-style-type: none;
     overflow: hidden;
+    align-content: center;
 }
-li.menu-item{
-    float: left;    
-}
-li.menu-item a{
+li.primary-item a{
     display: block;
-    padding: 2px;
+    text-align: center;
+    padding: 10px, 20px;
 }
-
 /* - - - - - - - - - - Header Styling- - - - - - - - - - -*/
 
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
