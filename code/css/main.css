@@ -45,7 +45,7 @@ ul.primary-menu{
 li.menu-item{
     float: left;
 }
-li.menu-iterm a{
+li.menu-item a{
     display: block;
     color: #674d00;
     padding: 10px, 20px, 10px, 20px;
