@@ -36,21 +36,21 @@ h3.subtitle{
 ul.primary-menu{
     list-style-type: none;
     overflow: hidden;
-    background-color: #b58900;
     padding: 0;
     margin: 0;
+    align-items: center;
 }
 
 li.menu-item{
-    /* float: left; */
+    float: left;
 }
 
 li.menu-item a{
-    display: inline-block;
+    display: block;
     text-align: center;
-    padding: 20px, 40px;
+    padding: 20px, 40px; 
     text-decoration: none;
-    color: white;
+    color: #674d00;
 }
 /* - - - - - - - - - - Header Styling- - - - - - - - - - -*/
 
