@@ -40,7 +40,7 @@ ul.primary-menu{
 }
 
 li.menu-item{
-    float: center;
+    float: left;
 }
 
 li.menu-item a{
