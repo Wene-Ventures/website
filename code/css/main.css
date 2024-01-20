@@ -19,10 +19,20 @@ h3.subtitle{
     text-align: center;
 }
 
-ul{
-    display: inline-block;
+/* - - - - - - - - - - Header Stying - - - - - - - - - - -*/
+/* Navigation Menu */
+ul.primary-menu{
     list-style-type: none;
 }
+li.menu-item{
+    float: left;    
+}
+li.menu-item a{
+    display: block;
+    padding: 2px;
+}
+
+/* - - - - - - - - - - Header Styling- - - - - - - - - - -*/
 
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
 
@@ -32,7 +42,6 @@ div.poem{
 }
 p.stanza{
     white-space: pre-line;
-    padding: 0,0,0,0;
     font-style: italic;
 
 }
