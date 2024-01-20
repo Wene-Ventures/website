@@ -19,6 +19,10 @@ h3.subtitle{
     text-align: center;
 }
 
-p.poem{
+div.stanza{
+    white-space: pre-line;
+    color: green;
+}
+div.poem{
     white-space: pre-line;
 }
