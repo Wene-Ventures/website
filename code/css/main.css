@@ -23,6 +23,7 @@ h3.subtitle{
 /* Navigation Menu */
 ul.primary-menu{
     list-style-type: none;
+    overflow: hidden;
 }
 li.menu-item{
     float: left;    
