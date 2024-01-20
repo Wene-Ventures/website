@@ -19,11 +19,14 @@ h3.subtitle{
     text-align: center;
 }
 
-p.stanza{
-    white-space: pre-line;
-    color: green;
-    font-size: 50px;
-}
+/* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
+
+/* Poetry Books */
 div.poem{
     white-space: pre-line;
 }
+p.stanza{
+    white-space: pre-line;
+}
+
+/* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
