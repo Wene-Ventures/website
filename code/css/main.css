@@ -25,15 +25,16 @@ ul.primary-menu{
     list-style-type: none;
     overflow: hidden;
     align-content: center;
-    background-color: hwb(45 0% 28%);
+    background-color: rgb(192, 147, 15);
 }
 li.primary item{
-    float: left
+    float: left;
 }
 li.primary-item a{
     display: block;
     text-align: center;
     padding: 10px, 20px;
+    color: white;
 }
 /* - - - - - - - - - - Header Styling- - - - - - - - - - -*/
 
