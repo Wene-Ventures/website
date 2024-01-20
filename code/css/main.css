@@ -18,3 +18,9 @@ h1.title{
 h3.subtitle{
     text-align: center;
 }
+
+pre.poem{
+    left: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
