@@ -24,16 +24,14 @@ h3.subtitle{
 ul.primary-menu{
     list-style-type: none;
     overflow: hidden;
-    background-color: black;
 }
 li.primary item{
-    float: center;
+    float: left;
 }
 li.primary-item a{
     display: block;
     text-align: center;
     padding: 10px, 20px;
-    color: white;
 }
 /* - - - - - - - - - - Header Styling- - - - - - - - - - -*/
 
