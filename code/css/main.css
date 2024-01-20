@@ -48,7 +48,10 @@ li.menu-item{
 li.menu-item a{
     display: block;
     text-align: center;
-    padding-right: 20px; 
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px; 
     text-decoration: none;
     color: #674d00;
 }
