@@ -63,7 +63,10 @@ div.poem{
 p.stanza{
     white-space: pre-line;
     font-style: italic;
-
+}
+p.description{
+    text-align: center;
+    font-style: italic;
 }
 
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
