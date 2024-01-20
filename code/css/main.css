@@ -41,6 +41,7 @@ ul.primary-menu{
     text-align: center;
     margin: 0;
     padding: 0;
+    border-bottom: #674d00 2px solid;
 }
 li.menu-item{
     float: left;
