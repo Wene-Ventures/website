@@ -74,5 +74,14 @@ p.description{
 a.page-links {
     font-size: 20px;
 }
-
+.table-of-contents ul{
+    list-style-type: none;
+    margin: 0; padding: 0;
+}
+.table-of-contents li{
+    
+}
+.table-of-contents li a{
+    text-decoration: none;
+}
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
