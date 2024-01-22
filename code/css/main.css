@@ -81,10 +81,10 @@ div.table-of-contents ul{
 div.table-of-contents li{
     
 }
-div.table-of-contents li a{
+div.table-of-contents a{
     text-decoration: none;
     color: #674d00;
     font-size: 20px;
-    padding: 10px 0 10px 20px;
+    padding: 10px 0px 10px 20px;
 }
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
