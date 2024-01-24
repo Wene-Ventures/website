@@ -10,6 +10,14 @@ Color Scheme
 
 */
 
+/* - - - - - - - - - - 404 Error- - - - - - - - - - -*/
+body.error-page {
+    text-align: center;
+    align-content: center;
+}
+
+/* - - - - - - - - - - 404 Error - - - - - - - - - - -*/
+
 body {
     background-color: #fdf6e3;  
 }
