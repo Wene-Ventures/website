@@ -97,12 +97,15 @@ div.table-of-contents a{
     
 }
 /*Books Menu*/
+menu.books-menu{
+    list-style-type: none;
+}
 menu.books-menu a{
   display: block;
   padding: 10px 0 10px 10px;
   text-decoration: none;  
   color: #674d00;
   font-size: 16px;
-  list-style-type: none;
+  
 }
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
