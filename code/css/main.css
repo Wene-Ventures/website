@@ -96,4 +96,9 @@ div.table-of-contents a{
     padding-left: 20px;
     
 }
+/*Books Menu*/
+menu.books-menu a{
+  display: block;
+  padding: 10px 0 10px 20px;  
+}
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
