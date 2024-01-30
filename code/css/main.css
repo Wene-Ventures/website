@@ -99,6 +99,8 @@ div.table-of-contents a{
 /*Books Menu*/
 menu.books-menu{
     list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 menu.books-menu a{
   display: block;
