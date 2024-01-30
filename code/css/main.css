@@ -102,6 +102,7 @@ menu.books-menu a{
   padding: 10px 0 10px 10px;
   text-decoration: none;  
   color: #674d00;
-  font-size: 20px;
+  font-size: 16px;
+  list-style-type: none;
 }
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
