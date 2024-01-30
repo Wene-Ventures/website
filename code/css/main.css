@@ -99,6 +99,7 @@ div.table-of-contents a{
 /*Books Menu*/
 menu.books-menu a{
   display: block;
-  padding: 10px 0 10px 20px;  
+  padding: 10px 0 10px 20px;
+  text-decoration: none;  
 }
 /* - - - - - - - - - - Books Styling - - - - - - - - - - -*/
